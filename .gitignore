@@ -1,0 +1,69 @@
+# Dependency directories
+node_modules/
+
+dev-wallet.json
+wba-wallet.json
+
+# Yarn Integrity file
+.yarn-integrity
+
+# Log files
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pnp/
+.pnp.js
+
+# Coverage directory used by tools like Istanbul
+coverage/
+
+# nyc test coverage
+.nyc_output
+
+# Compiled binary addons (https://nodejs.org/api/addons.html)
+build/Release
+
+# Dependency directories
+jspm_packages/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Microbundle cache
+.rpt2_cache/
+.rts2_cache_cjs/
+.rts2_cache_es/
+.rts2_cache_umd/
+
+# dotenv environment variables file
+.env
+
+# Next.js build output
+.next
+out/
+
+# Nuxt.js build output
+.nuxt
+dist/
+
+# Gatsby files
+.cache/
+public
+
+# Vue-cli build output
+dist/
+
+# Store VSCode versions for fast updates
+.vscode/*.tsbuildinfo
+
+# Local development
+local/
+
+
